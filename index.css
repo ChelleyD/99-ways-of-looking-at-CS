@@ -1,9 +1,12 @@
 body {
-    background-image: url(images/homepage/vr.jpeg);
-    background-repeat: none;
+    background-image: url(images/homepage/background.jpeg);
     background-size: contain;
     color: white;
     text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
 }
 
 
